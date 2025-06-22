@@ -1,5 +1,7 @@
 # 🔍 Система анализа данных фрилансеров
 
+<img width="896" alt="Image" src="https://github.com/user-attachments/assets/e4f0ab56-8537-4440-89a4-1398ee8f79d6" />
+
 > **Примечание**: English version is available after the Russian version below.
 
 Интеллектуальная система для анализа статистических данных о доходах фрилансеров с поддержкой запросов на естественном языке.
@@ -519,6 +521,8 @@ RuntimeError: CUDA out of memory
 ---
 
 # 🔍 Freelancer Data Analysis System
+
+<img width="896" alt="Image" src="https://github.com/user-attachments/assets/e4f0ab56-8537-4440-89a4-1398ee8f79d6" />
 
 Intelligent system for analyzing statistical data on freelancer earnings with natural language query support.
 
