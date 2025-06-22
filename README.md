@@ -1,5 +1,15 @@
 # 🔍 Система анализа данных фрилансеров
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-3776AB?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi" alt="FastAPI">
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas" alt="pandas">
+  <img src="https://img.shields.io/badge/numpy-013243?logo=numpy" alt="numpy">
+  <img src="https://img.shields.io/badge/Transformers-FFAC45?logo=huggingface" alt="Transformers">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Rich-014B62?logo=python" alt="Rich">
+</div>
+
 <img width="896" alt="Image" src="https://github.com/user-attachments/assets/e4f0ab56-8537-4440-89a4-1398ee8f79d6" />
 
 > **Примечание**: English version is available after the Russian version below.
@@ -521,6 +531,16 @@ RuntimeError: CUDA out of memory
 ---
 
 # 🔍 Freelancer Data Analysis System
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3.8+-3776AB?logo=python" alt="Python">
+  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi" alt="FastAPI">
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas" alt="pandas">
+  <img src="https://img.shields.io/badge/numpy-013243?logo=numpy" alt="numpy">
+  <img src="https://img.shields.io/badge/Transformers-FFAC45?logo=huggingface" alt="Transformers">
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Rich-014B62?logo=python" alt="Rich">
+</div>
 
 <img width="896" alt="Image" src="https://github.com/user-attachments/assets/e4f0ab56-8537-4440-89a4-1398ee8f79d6" />
 
