@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.so
+
+# Virtual Environment
+env/
+venv/
+ENV/
+.env/
+.venv/
+
+# Environment Variables
+*.env
+.env.*
+
+# FastAPI specific (if using compiled assets or static builds)
+dist/
+build/
+*.log
+
+# VSCode
+.vscode/
+
+# Pylint
+.pylint.d/
+
+# Other tools
+*.db
+*.sqlite3
+
+# __init__.py compiled cache
+**/__pycache__/

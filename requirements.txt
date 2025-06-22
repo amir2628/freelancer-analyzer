@@ -1,0 +1,47 @@
+# Основные зависимости
+fastapi
+uvicorn[standard]
+pydantic
+
+# Обработка данных
+pandas
+numpy
+
+# Машинное обучение и LLM
+transformers
+torch
+torchvision
+torchaudio
+tokenizers
+accelerate
+bitsandbytes
+
+# CLI интерфейс
+rich
+click
+
+# Веб-разработка
+fastapi-cors
+python-multipart
+
+# Утилиты
+python-dotenv
+aiofiles
+
+# Логирование
+loguru
+
+# Тестирование
+pytest
+pytest-asyncio
+httpx
+
+# Документация
+mkdocs
+mkdocs-material
+
+# Безопасность
+cryptography
+
+# Производительность
+psutil
