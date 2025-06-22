@@ -15,7 +15,6 @@ ENV/
 
 # Environment Variables
 *.env
-.env.*
 
 # FastAPI specific (if using compiled assets or static builds)
 dist/
